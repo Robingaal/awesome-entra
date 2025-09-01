@@ -124,7 +124,7 @@ These learning hubs are maintained by Microsoft Entra's Customer Experience Engi
 ### Web apps
 
 - [AADInternals - OSINT](https://aadinternals.com/osint) - OSINT web app that displays tenant information.
-- [API Token Tools](https://apitoken.tools) -Web app to request Oauth2 tokens from Entra and tools to help implement Certificate Based Authentication for App Registrations.
+- [API Token Tools](https://apitoken.tools) - Web app to request OAuth 2.0 tokens and tools to help implement Certificate Based Authentication for App Registrations.
 - [Conditional Access Blueprint](https://www.jbaes.be/Conditional-Access-Blueprint) - Four tools to model and create CA policies.
 - [EntraPulse](https://github.com/darrenjrobinson/EntraPulseLite) - AI-Powered Gateway to Microsoft Graph & Docs. Local and Cloud LLM support for Lokka and Docs/Learn MCP. 
 - [Entra Scopes](https://entrascopes.com/) - The yellow pages of Microsoft first party apps. Includes filtering by scope, FOCI and more.
